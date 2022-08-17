@@ -34,6 +34,7 @@ Para uma situação em que os valores são:
 **t =** 7
 
 $$ P = 1000 \* 4 ^\frac{7}{7} $$
+
 $$ P = 4000 $$
 
 Isso significa que, após 7 dias, o total de pessoas infectadas será de 4000, uma vez que inicialmente existiam 1000 pessoas infectadas.

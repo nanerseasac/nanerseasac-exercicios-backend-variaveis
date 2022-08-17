@@ -17,8 +17,11 @@ O seu programa deverá imprimir na tela o resultado **d**
 |  1  |  1  |  1  |  4  |
 
 $$ d = \sqrt{(1 - 1)^2 + (4 - 1)^2} $$
+
 $$ d = \sqrt{(0)^2 + (3)^2} $$
+
 $$ d = \sqrt{9} $$
+
 $$ d = 3 $$
 
 Ou seja, a distância entre esses 2 pontos dados é de **3**.

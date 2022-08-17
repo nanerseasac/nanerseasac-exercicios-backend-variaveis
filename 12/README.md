@@ -28,7 +28,9 @@ $C:$ 60000 \
 $n:$ 24
 
 $$ i = \frac{90000}{60000}^\frac{1}{24} - 1 $$
+
 $$ i = 0,001703 $$
+
 $$ i = 1,703% ao mês $$
 
 Imprima a taxa de juros com uma mensagem seguindo o formato a seguir (substituindo C, i, M e n por números):

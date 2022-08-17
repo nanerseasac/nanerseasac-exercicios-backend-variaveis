@@ -31,8 +31,11 @@ Considerando a figura abaixo:
 ![](https://static.escolakids.uol.com.br/conteudo_legenda/460f67f820a78f732d55395e1932a031.jpg)
 
 $$ S = 180 \* (6 - 2) $$
+
 $$ S = 720 $$
+
 $$ a = \frac{720}{6} $$
+
 $$ a = 120 $$
 
 Imprima na tela o valor da soma dos ângulos internos $S$ e o valor de cada ângulo do polígono $a$ .

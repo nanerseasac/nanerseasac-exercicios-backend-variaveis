@@ -34,7 +34,9 @@ valor_do_desconto = 110 - 50;
 Essa relação lê-se: _"110 reais representa 100% do valor, quantos porcento equivale a 50 reais?"_ Esse valor é obtido em **d**.
 
 $$ 50 \* 100 = 110d $$
-$$ \frac{5000}{110} = d $$  
+
+$$ \frac{5000}{110} = d $$
+
 $$ d ≅ 45,5 $$
 
 ---

@@ -27,7 +27,9 @@ i = 0,125 \
 t = 5
 
 $$ M = 1000 (1 + 0,125)^5 $$
-$$ M = 1000 (1,802) $$  
+
+$$ M = 1000 (1,802) $$
+
 $$ M = 1802 $$
 
 O seu programa deverá imprimir o montante com base no input recebido.
