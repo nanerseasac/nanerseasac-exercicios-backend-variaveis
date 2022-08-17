@@ -22,9 +22,9 @@ Se um capital de R$ 1000,00 é aplicado durante 5 meses no sistema de juros comp
 
 Sendo:
 
-C = 1000 \
-i = 0,125 \
-t = 5
+**C =** 1000 \
+**i =** 0,125 \
+**t =** 5
 
 $$ M = 1000 (1 + 0,125)^5 $$
 

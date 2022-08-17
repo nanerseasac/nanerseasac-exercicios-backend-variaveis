@@ -12,9 +12,9 @@ $$ A = piR^2 $$
 
 Onde:
 
-$C:$ comprimento do círculo \
-$A:$ área do círculo \
-$R:$ raio do círculo
+**C:** comprimento do círculo \
+**A:** área do círculo \
+**R:** raio do círculo
 
 #### Exemplo:
 

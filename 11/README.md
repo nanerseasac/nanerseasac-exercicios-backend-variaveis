@@ -10,8 +10,8 @@ $$ v = \frac{3}{4} \* pi (\frac{d}{2})^3 $$
 
 onde:
 
-$v:$ volume da esfera \
-$d:$ diâmetro da esfera
+**v:** volume da esfera \
+**d:** diâmetro da esfera
 
 Faça um programa que calcula o volume de uma esfera a partir de seu DIÂMETRO. Lembre-se que o DIÂMETRO de uma esfera é sempre o dobro do raio.
 

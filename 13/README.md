@@ -14,9 +14,9 @@ $$ At = 2piR(R + H) $$
 
 Sendo:
 
-$At:$ área total do cilindro \
-$R:$ raio da base \
-$H:$ altura do cilindro
+**At:** área total do cilindro \
+**R:** raio da base \
+**H:** altura do cilindro
 
 Faça um programa que calcula a área total de um cilindro a partir do raio da sua base e da sua altura.
 
@@ -25,8 +25,8 @@ Faça um programa que calcula a área total de um cilindro a partir do raio da s
 \
 Para um cilindro com:
 
-$R =$ 3 \
-$H =$ 1
+**R =** 3 \
+**H =** 1
 
 $$ At = 2pi3(3 + 1) $$
 

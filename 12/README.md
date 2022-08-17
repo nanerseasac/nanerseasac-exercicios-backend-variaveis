@@ -12,10 +12,10 @@ $$ i = \frac{M}{C}^\frac{1}{n} - 1 $$
 
 onde:
 
-$i:$ taxa de juros \
-$M:$ montante \
-$C:$ capital inicial (valor de dinheiro inicial) \
-$n:$ número de meses
+**i:** taxa de juros \
+**M:** montante \
+**C:** capital inicial (valor de dinheiro inicial) \
+**n:** número de meses
 
 #### Exemplo:
 
@@ -23,9 +23,9 @@ Digamos que pegou emprestado R$ 60.000,00 e após 24 meses tenha pago R$ 90.000,
 
 Do enunciado acima temos:
 
-$M:$ 90000 \
-$C:$ 60000 \
-$n:$ 24
+**M:** 90000 \
+**C:** 60000 \
+**n:** 24
 
 $$ i = \frac{90000}{60000}^\frac{1}{24} - 1 $$
 
