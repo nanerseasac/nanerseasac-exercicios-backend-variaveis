@@ -24,13 +24,13 @@ Considere:
 
 $$ Velocidade = \frac{500}{10} $$
 
-$$ Velocidade = 5 m/s $$
+$$ Velocidade = 50 m/s $$
 
 Para converter esse valor em _km/h_:
 
-$$ Velocidade = 5 \* 3,6 $$
+$$ Velocidade = 50 \* 3,6 $$
 
-$$ Velocidade = 18km/h $$
+$$ Velocidade = 180km/h $$
 
 O seu programa deverá imprimir o montante com base no input recebido.
 
