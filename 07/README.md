@@ -11,6 +11,7 @@ Suponha que você está trabalhando no Ministério da Saúde e está trabalhando
 **t =** tempo percorrido
 
 Para isso, utiliza-se a fórmula seguinte:
+
 $$ P = Po \* x ^\frac{t}{7} $$
 
 <!-- ![P = Po _ x ^\frac{t}{7}](https://i.imgur.com/xT7rwGh.png) -->
