@@ -6,7 +6,7 @@
 
 Para calcular o volume de uma esfera, utilizamos a seguinte fórmula:
 
-$$ v = \frac{4}{3} * r ^ 3 $$
+$$ v = \frac{4}{3} *pi *r ^ 3 $$
 
 onde:
 
